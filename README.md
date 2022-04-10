@@ -1,0 +1,3 @@
+# Ejercicio_Fisica
+Calcular la posición y velocidad de un objeto
+Calculando...
